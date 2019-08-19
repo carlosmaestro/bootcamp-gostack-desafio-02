@@ -23,3 +23,11 @@ $ yarn eslint --fix src --ext .js
 ```bash
 $ yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
 ```
+### sequelize, pg, pg-store
+```bash
+$ yarn add sequelize pg pg-hstore
+```
+### sequelize-cli
+```bash
+$ yarn add sequelize-cli -D
+```
