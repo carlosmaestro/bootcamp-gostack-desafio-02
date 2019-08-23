@@ -65,3 +65,21 @@ $ yarn sequelize db:migrate
 ```bash
 $ yarn sequelize migration:create --name=create-users
 ```
+
+### Add bcryptjs
+
+```bash
+$ yarn add bcryptjs
+```
+
+### Add yup
+
+```bash
+$ yarn add yup
+```
+
+### Add jsonwebtoken
+
+```bash
+$ yarn add jsonwebtoken
+```
